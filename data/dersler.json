@@ -1,0 +1,31 @@
+{
+  "updated": "2026-10-19",
+  "courses": [
+    {
+      "id": "dunya-miras-alanlari",
+      "title": "Dünya Miras Alanları",
+      "output": "Haftalık sunum (sunum başına 2 makale)",
+      "status": "planlandı",
+      "topics": [],
+      "data_path": null
+    },
+    {
+      "id": "cumhuriyet-donemi-mimarlik",
+      "title": "Cumhuriyet Dönemi Mimarlık Faaliyetleri",
+      "output": "2 bildiri",
+      "status": "konular bekleniyor",
+      "topics": [],
+      "data_path": null
+    },
+    {
+      "id": "sinan-camileri",
+      "title": "Mimar Sinan'ın Camilerinde Mekân, Strüktür ve Örtü",
+      "output": "Bildiri veya makale (ürüne göre karar verilecek)",
+      "status": "araştırma sürüyor",
+      "topics": [
+        "İstanbul'da Hacerü'l-Esved'in İzini Sürmek; Sinan'ın Kutsal Taşa Dokunuşu"
+      ],
+      "data_path": "data/sinan-hacerul-esved.json"
+    }
+  ]
+}
