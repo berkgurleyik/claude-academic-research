@@ -10,7 +10,7 @@ Bu repo hem Claude Code'un bulut çalışma alanı hem de GitHub Pages ile yayı
 
 ## Kurallar
 - Yanıtlar ve notlar Türkçe; kaynak künyeleri orijinal dilinde.
-- Her kaynak kaydı `data/example.json` şemasını izler (`id`, `title`, `authors`, `year`, `type`, `tags`, `summary`, `notes_path`).
+- Her kaynak kaydı şu alanları içerir (`id`, `title`, `authors`, `year`, `type`, `tags`, `summary`, `notes_path`).
 - Atıflarda APA 7 kullan. Doğrulayamadığın künyeyi uydurma; `"verified": false` ekle.
 - JSON dosyalarını geçerli tut (virgül hatası yayındaki veriyi bozar).
 - Değişiklikten sonra commit at ve push et; site birkaç dakika içinde güncellenir.
