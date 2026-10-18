@@ -1,0 +1,12 @@
+{
+  "project": "Claude Academic Research",
+  "updated": "2026-10-19",
+  "files": [
+    {
+      "path": "data/example.json",
+      "title": "Örnek veri",
+      "description": "Yapıyı göstermek için örnek kayıt. Silebilirsin.",
+      "updated": "2026-10-19"
+    }
+  ]
+}
