@@ -1,0 +1,214 @@
+{
+  "course_id": "sinan-camileri",
+  "topic": "İstanbul'da Hacerü'l-Esved'in İzini Sürmek; Sinan'ın Kutsal Taşa Dokunuşu",
+  "updated": "2026-10-19",
+  "citation_style": "APA 7",
+  "report_path": "notes/sinan-hacerul-esved-literatur.md",
+  "sources": [
+    {
+      "id": "ogut-1996-hacerulesved",
+      "title": "Hacerülesved",
+      "authors": [
+        "Öğüt, S."
+      ],
+      "year": 1996,
+      "type": "encyclopedia-entry",
+      "tags": [
+        "hacerülesved",
+        "kâbe",
+        "tdv"
+      ],
+      "summary": "Taşın tanımı, Kâbe'deki yeri, fiziksel tarifi (yaklaşık 30 cm, yerden yaklaşık 1,5 m), kökenine dair rivayetler ve İslam öncesi/sonrası anlamı. Konunun dinî-tarihî çerçevesi için temel başvuru.",
+      "apa": "Öğüt, S. (1996). Hacerülesved. In TDV İslâm ansiklopedisi. Türkiye Diyanet Vakfı. https://islamansiklopedisi.org.tr/hacerulesved",
+      "doi": null,
+      "url": "https://islamansiklopedisi.org.tr/hacerulesved",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Dinî çerçeve; taşın anlamı ve tazimin sınırları.",
+      "notes_path": "notes/ogut-1996-hacerulesved.md"
+    },
+    {
+      "id": "tanman-2009-sokullu-kadirga",
+      "title": "Sokullu Mehmed Paşa Külliyesi (Kadırga)",
+      "authors": [
+        "Tanman, M. B."
+      ],
+      "year": 2009,
+      "type": "encyclopedia-entry",
+      "tags": [
+        "sokullu",
+        "kadırga",
+        "sinan",
+        "külliye",
+        "tdv"
+      ],
+      "summary": "Kadırga külliyesinin yapı grupları, banisi tartışması, 979/1572 tarihli kitabe, mihrap ve minberin tarifi. Arama özetlerinde Hacerülesved parçalarından söz edilmiyor; tam metinde kontrol edilmeli.",
+      "apa": "Tanman, M. B. (2009). Sokullu Mehmed Paşa Külliyesi (Kadırga). In TDV İslâm ansiklopedisi. Türkiye Diyanet Vakfı. https://islamansiklopedisi.org.tr/sokullu-mehmed-pasa-kulliyesi--eminonu",
+      "doi": null,
+      "url": "https://islamansiklopedisi.org.tr/sokullu-mehmed-pasa-kulliyesi--eminonu",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Vaka yapısının mimari tarifi; parçaların yerleştirildiği mihrap ve minber.",
+      "notes_path": "notes/tanman-2009-sokullu-kadirga.md"
+    },
+    {
+      "id": "necipoglu-2005-age-of-sinan",
+      "title": "The age of Sinan: Architectural culture in the Ottoman Empire",
+      "authors": [
+        "Necipoğlu, G."
+      ],
+      "year": 2005,
+      "type": "book",
+      "tags": [
+        "sinan",
+        "osmanlı mimarlığı",
+        "sokullu",
+        "temel eser"
+      ],
+      "summary": "Sinan mimarlığının patronaj, kod ve anlam boyutlarını ele alan temel eser. Kadırga camisine ayrılan bölümün s. 331–335 olduğu ikincil bir kaynakta geçiyor; Hacerülesved parçalarını tartışıp tartışmadığı doğrulanmadı.",
+      "apa": "Necipoğlu, G. (2005). The age of Sinan: Architectural culture in the Ottoman Empire. Reaktion Books.",
+      "doi": null,
+      "url": "https://reaktionbooks.co.uk/work/the-age-of-sinan",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Kuramsal çerçeve ve patronaj: Sokullu-İsmihan Sultan vakfı, Sinan'ın dekorum anlayışı.",
+      "notes_path": "notes/necipoglu-2005-age-of-sinan.md"
+    },
+    {
+      "id": "akcil-harmankaya-2018-sembolizm",
+      "title": "Mimar Sinan camilerinde sembolizm üzerine bir değerlendirme",
+      "authors": [
+        "Akçıl Harmankaya, N. Ç."
+      ],
+      "year": 2018,
+      "type": "article",
+      "tags": [
+        "sinan",
+        "sembolizm",
+        "kutsal emanetler",
+        "hacerülesved"
+      ],
+      "summary": "Sinan camilerini 'Kutsal Emanetler' başlığı altında simgesel ve kozmolojik açıdan değerlendiriyor; kaynakçasında Öğüt'ün Hacerülesved maddesi var. Konuya en yakın akademik makale.",
+      "apa": "Akçıl Harmankaya, N. Ç. (2018). Mimar Sinan camilerinde sembolizm üzerine bir değerlendirme. Sanat Tarihi Yıllığı, (27), 41–48.",
+      "doi": null,
+      "url": "https://dergipark.org.tr/en/pub/iusty/issue/38169/441322",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Doğrudan ilgili: kutsal emanetlerin Sinan camilerindeki yeri.",
+      "notes_path": "notes/akcil-harmankaya-2018-sembolizm.md"
+    },
+    {
+      "id": "akcil-harmankaya-2017-sembolizm-tez",
+      "title": "Mimar Sinan camilerinde sembolizm",
+      "authors": [
+        "Akçıl Harmankaya, N. Ç."
+      ],
+      "year": 2017,
+      "type": "thesis",
+      "tags": [
+        "sinan",
+        "sembolizm",
+        "doktora tezi"
+      ],
+      "summary": "Mimar Sinan Güzel Sanatlar Üniversitesi doktora tezi (danışman: Nuri Seçgin). 2018 makalesiyle aynı başlıkta; ilişkileri doğrulanmadı. Hacerülesved parçalarına dair ayrıntı burada olabilir.",
+      "apa": "Akçıl Harmankaya, N. Ç. (2017). Mimar Sinan camilerinde sembolizm [Doktora tezi, Mimar Sinan Güzel Sanatlar Üniversitesi].",
+      "doi": null,
+      "url": "https://acikerisim.msgsu.edu.tr/xmlui/handle/20.500.14124/2636",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Doğrudan ilgili olabilir; tam metin YÖK Tez Merkezi'nden kontrol edilmeli.",
+      "notes_path": "notes/akcil-harmankaya-2017-sembolizm-tez.md"
+    },
+    {
+      "id": "yasan-2019-kadirga-hatlari",
+      "title": "Kadırga Sokullu Mehmed Paşa Camii hatları",
+      "authors": [
+        "Yasan, A."
+      ],
+      "year": 2019,
+      "type": "thesis",
+      "tags": [
+        "sokullu",
+        "kadırga",
+        "hat",
+        "kitabe"
+      ],
+      "summary": "Fatih Sultan Mehmet Vakıf Üniversitesi yüksek lisans tezi (danışman: M. Hüsrev Subaşı). Caminin çini, kalemişi, taş ve revzen yazılarını fotoğraflayıp değerlendiriyor. Parçaların çevresindeki yazılar için bakılmalı.",
+      "apa": "Yasan, A. (2019). Kadırga Sokullu Mehmed Paşa Camii hatları [Yüksek lisans tezi, Fatih Sultan Mehmet Vakıf Üniversitesi]. http://hdl.handle.net/11352/2931",
+      "doi": null,
+      "url": "http://hdl.handle.net/11352/2931",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Parçaların bulunduğu kapı, mihrap ve minberdeki yazı programı.",
+      "notes_path": "notes/yasan-2019-kadirga-hatlari.md"
+    },
+    {
+      "id": "martens-2020-masjid-al-haram",
+      "title": "The Masjid al-Haram: Balancing tradition and renewal at the heart of Islam",
+      "authors": [
+        "Martens, M. L."
+      ],
+      "year": 2020,
+      "type": "article",
+      "tags": [
+        "mescid-i haram",
+        "sinan",
+        "mekke",
+        "kâbe"
+      ],
+      "summary": "Mescid-i Haram'daki inşa evrelerini, özellikle Sinan'a atfedilen 16. yüzyıl Osmanlı revaklarını ele alıyor. Sinan-Mekke bağlantısı ve 'Kâbe tamiri' rivayetinin tarihsel zemini için.",
+      "apa": "Martens, M. L. (2020). The Masjid al-Haram: Balancing tradition and renewal at the heart of Islam. International Journal of Islamic Architecture, 9(1), 119–132.",
+      "doi": null,
+      "url": "https://archnet.org/publications/14332",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Sinan'ın Mekke'deki işleri; parçaların geliş rivayetinin sınanması.",
+      "notes_path": "notes/martens-2020-masjid-al-haram.md"
+    },
+    {
+      "id": "metin-2015-kabe-hizmetleri",
+      "title": "Osmanlıların Kâbe ve Mescid-i Haram hizmetleri",
+      "authors": [
+        "Metin, İ."
+      ],
+      "year": 2015,
+      "type": "article",
+      "tags": [
+        "kâbe",
+        "mescid-i haram",
+        "osmanlı",
+        "onarım"
+      ],
+      "summary": "Osmanlıların Kâbe ve Mescid-i Haram'a yönelik onarım ve hizmetleri. Kanuni dönemini kapsayıp kapsamadığı ve sayfa aralığı doğrulanmadı.",
+      "apa": "Metin, İ. (2015). Osmanlıların Kâbe ve Mescid-i Haram hizmetleri. Turkish Studies, 10(2).",
+      "doi": null,
+      "url": "https://makale.isam.org.tr/bitstreams/369f48ab-235f-48be-a159-560672b9d9a2/download",
+      "verified": false,
+      "verification": "kismen",
+      "relevance": "Osmanlı Kâbe onarımlarının kronolojisi; parçaların kopma rivayetiyle karşılaştırma.",
+      "notes_path": "notes/metin-2015-kabe-hizmetleri.md"
+    },
+    {
+      "id": "ayvansarayi-hadikatul-cevami",
+      "title": "Hadîkatü'l-cevâmi'",
+      "authors": [
+        "Ayvansarayî, H."
+      ],
+      "year": null,
+      "type": "primary-source",
+      "tags": [
+        "birincil kaynak",
+        "istanbul camileri",
+        "sokullu"
+      ],
+      "summary": "18. yüzyıl İstanbul camileri envanteri. Kadırga Sokullu camisinin c. I, s. 193–194'te geçtiği bir ikincil kaynakta belirtiliyor. Hacerülesved parçalarından söz edip etmediği bilinmiyor; parçaların belgelenen en erken tarihi için kilit kaynak.",
+      "apa": "Ayvansarayî, H. (t.y.). Hadîkatü'l-cevâmi' (Baskı ve sayfa bilgisi doğrulanmadı).",
+      "doi": null,
+      "url": "https://mcid.mcah.columbia.edu/node/1414",
+      "verified": false,
+      "verification": "dogrulanamadi",
+      "relevance": "Birincil kaynak: parçalar 18. yüzyılda yerinde miydi?",
+      "notes_path": "notes/ayvansarayi-hadikatul-cevami.md"
+    }
+  ]
+}
