@@ -1,0 +1,10 @@
+{
+  "id": "example-001",
+  "title": "Örnek kaynak",
+  "authors": ["Soyad, A."],
+  "year": 2026,
+  "type": "article",
+  "tags": ["örnek"],
+  "summary": "Bu dosya yapıyı göstermek için var.",
+  "notes_path": "notes/example-001.md"
+}
