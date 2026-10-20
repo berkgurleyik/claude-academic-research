@@ -1,7 +1,7 @@
 {
   "course_id": "sinan-camileri",
   "topic": "İstanbul'da Hacerü'l-Esved'in İzini Sürmek; Sinan'ın Kutsal Taşa Dokunuşu",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "citation_style": "APA 7",
   "report_path": "notes/sinan-hacerul-esved-literatur.md",
   "sources": [
@@ -18,14 +18,15 @@
         "kâbe",
         "tdv"
       ],
-      "summary": "Taşın tanımı, Kâbe'deki yeri, fiziksel tarifi (yaklaşık 30 cm, yerden yaklaşık 1,5 m), kökenine dair rivayetler ve İslam öncesi/sonrası anlamı. Konunun dinî-tarihî çerçevesi için temel başvuru.",
-      "apa": "Öğüt, S. (1996). Hacerülesved. In TDV İslâm ansiklopedisi. Türkiye Diyanet Vakfı. https://islamansiklopedisi.org.tr/hacerulesved",
+      "summary": "Taşın tanımı, tarihçesi, kırılma ve onarımları, fıkhî hükümleri ve sembolik anlamı. İstanbul için kritik cümle: Taşa ait küçük bir parçanın Kanûnî döneminde bir hadım ağası tarafından İstanbul'a getirilip türbe kapısının üst tarafına konduğu belirtilir (dayanak: Mahmud Esad, İslâm Tarihi, s. 326). Fotoğraf altı yazısı parçayı 'Kanûnî Türbesi'nin giriş cephesindeki kemerin kilit taşına yerleştirilen ve Hacerülesved parçası olduğu rivayet edilen siyah taş' olarak tanımlar. Kadırga Sokullu camisinden söz edilmez. Maddenin sonunda taşa dokunmanın taşın kendisine değil, sembolik ve taabbüdî bir anlama işaret ettiği vurgulanır.",
+      "apa": "Öğüt, S. (1996). Hacerülesved. In TDV İslâm ansiklopedisi (Cilt 14, ss. 433–435). Türkiye Diyanet Vakfı.",
       "doi": null,
       "url": "https://islamansiklopedisi.org.tr/hacerulesved",
-      "verified": false,
-      "verification": "kismen",
-      "relevance": "Dinî çerçeve; taşın anlamı ve tazimin sınırları.",
-      "notes_path": "notes/ogut-1996-hacerulesved.md"
+      "verified": true,
+      "verification": "dogrulandi",
+      "relevance": "Kanuni Türbesi parçası için tek ansiklopedik dayanak; 'rivayet' ifadesi ve kilit taşı konumu. Dinî çerçeve: tazimin sınırı.",
+      "notes_path": "notes/ogut-1996-hacerulesved.md",
+      "drive_file": "C14005125.pdf"
     },
     {
       "id": "tanman-2009-sokullu-kadirga",
@@ -42,14 +43,15 @@
         "külliye",
         "tdv"
       ],
-      "summary": "Kadırga külliyesinin yapı grupları, banisi tartışması, 979/1572 tarihli kitabe, mihrap ve minberin tarifi. Arama özetlerinde Hacerülesved parçalarından söz edilmiyor; tam metinde kontrol edilmeli.",
-      "apa": "Tanman, M. B. (2009). Sokullu Mehmed Paşa Külliyesi (Kadırga). In TDV İslâm ansiklopedisi. Türkiye Diyanet Vakfı. https://islamansiklopedisi.org.tr/sokullu-mehmed-pasa-kulliyesi--eminonu",
+      "summary": "Külliyenin bütün birimlerinin ayrıntılı tarifi: banisi tartışması (Sokullu vakfiyesi ile İsmihan Sultan vakfiyesi çelişir), 979/1572 tarihli kitabe ve yerindeki kilise, 13 m çaplı kubbeyi taşıyan altı payeli (altıgen) şema, mihrap ve minberin tarifi, çini ve kalem işi programı. Altı destekli şemanın bu yapıda 'en kusursuz biçimine' ulaştığı konusunda araştırmacıların hemfikir olduğu belirtilir. Maddede Hacerülesved parçalarından hiç söz edilmez.",
+      "apa": "Tanman, M. B. (2009). Sokullu Mehmed Paşa Külliyesi (Kadırga). In TDV İslâm ansiklopedisi (Cilt 37, ss. 360–363). Türkiye Diyanet Vakfı.",
       "doi": null,
       "url": "https://islamansiklopedisi.org.tr/sokullu-mehmed-pasa-kulliyesi--eminonu",
-      "verified": false,
-      "verification": "kismen",
-      "relevance": "Vaka yapısının mimari tarifi; parçaların yerleştirildiği mihrap ve minber.",
-      "notes_path": "notes/tanman-2009-sokullu-kadirga.md"
+      "verified": true,
+      "verification": "dogrulandi",
+      "relevance": "Vaka yapısının mimari tarifi (mekân, strüktür, örtü). Parçaların bu ayrıntılı maddede hiç geçmemesi, bildiride bir bulgu olarak kullanılabilir. Kaynakçası yeni izler veriyor: Kuban (1968) Ars Orientalis makalesi, Hadîka I, 193–195.",
+      "notes_path": "notes/tanman-2009-sokullu-kadirga.md",
+      "drive_file": "C37012294.pdf"
     },
     {
       "id": "necipoglu-2005-age-of-sinan",
@@ -72,7 +74,8 @@
       "verified": false,
       "verification": "kismen",
       "relevance": "Kuramsal çerçeve ve patronaj: Sokullu-İsmihan Sultan vakfı, Sinan'ın dekorum anlayışı.",
-      "notes_path": "notes/necipoglu-2005-age-of-sinan.md"
+      "notes_path": "notes/necipoglu-2005-age-of-sinan.md",
+      "drive_file": null
     },
     {
       "id": "akcil-harmankaya-2018-sembolizm",
@@ -95,7 +98,8 @@
       "verified": false,
       "verification": "kismen",
       "relevance": "Doğrudan ilgili: kutsal emanetlerin Sinan camilerindeki yeri.",
-      "notes_path": "notes/akcil-harmankaya-2018-sembolizm.md"
+      "notes_path": "notes/akcil-harmankaya-2018-sembolizm.md",
+      "drive_file": null
     },
     {
       "id": "akcil-harmankaya-2017-sembolizm-tez",
@@ -117,7 +121,8 @@
       "verified": false,
       "verification": "kismen",
       "relevance": "Doğrudan ilgili olabilir; tam metin YÖK Tez Merkezi'nden kontrol edilmeli.",
-      "notes_path": "notes/akcil-harmankaya-2017-sembolizm-tez.md"
+      "notes_path": "notes/akcil-harmankaya-2017-sembolizm-tez.md",
+      "drive_file": null
     },
     {
       "id": "yasan-2019-kadirga-hatlari",
@@ -140,7 +145,8 @@
       "verified": false,
       "verification": "kismen",
       "relevance": "Parçaların bulunduğu kapı, mihrap ve minberdeki yazı programı.",
-      "notes_path": "notes/yasan-2019-kadirga-hatlari.md"
+      "notes_path": "notes/yasan-2019-kadirga-hatlari.md",
+      "drive_file": null
     },
     {
       "id": "martens-2020-masjid-al-haram",
@@ -163,7 +169,8 @@
       "verified": false,
       "verification": "kismen",
       "relevance": "Sinan'ın Mekke'deki işleri; parçaların geliş rivayetinin sınanması.",
-      "notes_path": "notes/martens-2020-masjid-al-haram.md"
+      "notes_path": "notes/martens-2020-masjid-al-haram.md",
+      "drive_file": null
     },
     {
       "id": "metin-2015-kabe-hizmetleri",
@@ -186,7 +193,8 @@
       "verified": false,
       "verification": "kismen",
       "relevance": "Osmanlı Kâbe onarımlarının kronolojisi; parçaların kopma rivayetiyle karşılaştırma.",
-      "notes_path": "notes/metin-2015-kabe-hizmetleri.md"
+      "notes_path": "notes/metin-2015-kabe-hizmetleri.md",
+      "drive_file": null
     },
     {
       "id": "ayvansarayi-hadikatul-cevami",
@@ -201,14 +209,204 @@
         "istanbul camileri",
         "sokullu"
       ],
-      "summary": "18. yüzyıl İstanbul camileri envanteri. Kadırga Sokullu camisinin c. I, s. 193–194'te geçtiği bir ikincil kaynakta belirtiliyor. Hacerülesved parçalarından söz edip etmediği bilinmiyor; parçaların belgelenen en erken tarihi için kilit kaynak.",
-      "apa": "Ayvansarayî, H. (t.y.). Hadîkatü'l-cevâmi' (Baskı ve sayfa bilgisi doğrulanmadı).",
+      "summary": "18. yüzyıl İstanbul camileri envanteri. Tanman (2009) kaynakçasında Kadırga camisi için c. I, s. 193–195 gösteriliyor. Hacerülesved parçalarından söz edip etmediği bilinmiyor; parçaların belgelenen en erken tarihi için kilit kaynak.",
+      "apa": "Ayvansarayî, H. (t.y.). Hadîkatü'l-cevâmi' (Cilt 1, ss. 193–195; baskı bilgisi doğrulanmadı).",
       "doi": null,
       "url": "https://mcid.mcah.columbia.edu/node/1414",
       "verified": false,
       "verification": "dogrulanamadi",
       "relevance": "Birincil kaynak: parçalar 18. yüzyılda yerinde miydi?",
-      "notes_path": "notes/ayvansarayi-hadikatul-cevami.md"
+      "notes_path": "notes/ayvansarayi-hadikatul-cevami.md",
+      "drive_file": null
+    },
+    {
+      "id": "onkal-kanuni-turbesi",
+      "title": "Kanuni'nin türbesi",
+      "authors": [
+        "Önkal, H."
+      ],
+      "year": null,
+      "type": "article",
+      "tags": [
+        "kanuni türbesi",
+        "süleymaniye",
+        "sinan",
+        "türbe mimarisi"
+      ],
+      "summary": "Türbenin inşa tarihini tartışır: Kanuni'nin cenazesi 28 Kasım 1566'da İstanbul'a ulaştığında türbe yoktu (Peçevi, Solakzâde, Feridun Bey'in Süleymanname minyatürü). II. Selim türbesiyle karşılaştırarak yapının yaklaşık 2 yılda, 1568 sonlarında tamamlanmış olabileceğini tahmin eder. Plan (sütunlu iç galeri, revakla kuşatılmış sekizgen gövde, çift cidarlı kubbe) ve süsleme tarifi verir. Makalede Hacerülesved parçasından hiç söz edilmez.",
+      "apa": "Önkal, H. (t.y.). Kanuni'nin türbesi [Dergi adı, yılı ve cilt bilgisi doğrulanmadı], ss. 106–110.",
+      "doi": null,
+      "url": null,
+      "verified": false,
+      "verification": "kismen",
+      "drive_file": "The Turbeh of Kanuni[#172396]-152273.pdf",
+      "relevance": "Kronoloji için kilit: Türbe 1568 civarında bittiyse, 'Kanuni döneminde getirilen' parça kapıya ancak Kanuni'nin ölümünden sonra, II. Selim döneminde konmuş olabilir. Bu, Kadırga camisinin tarihine (979/1572) çok yakın.",
+      "notes_path": "notes/onkal-kanuni-turbesi.md"
+    },
+    {
+      "id": "kocak-2023-hajar-al-aswad",
+      "title": "Features of the Hajar al-Aswad, Black Stone of Makkah, Saudi Arabia",
+      "authors": [
+        "Koçak, K."
+      ],
+      "year": 2023,
+      "type": "article",
+      "tags": [
+        "hacerülesved",
+        "jeoloji",
+        "istanbul",
+        "edirne",
+        "sokullu"
+      ],
+      "summary": "Jeoloji mühendisliği makalesi. Kâbe'deki taşın fotoğraflarını görüntü işleme yazılımıyla inceler. İstanbul'da altı parça olduğunu söyler: dördü Sokullu Mehmed Paşa Camii'nde, biri Sultanahmet Camii'nin mihrabında, biri Kanuni Türbesi girişinin üzerinde. Edirne Eski Cami'deki taşın tonalit bileşiminde olduğunu, Kâbe ve İstanbul'dakilerden farklı olduğunu ve Rükn-i Yemânî'den gelmiş olabileceğini öne sürer. 'Muhafaza yenilenirken kenarlardan toplam 10 cm'lik parçaların koparılıp 1571'de tamamlanan Sokullu camisinde kullanıldığı' iddiasına kaynak göstermez.",
+      "apa": "Koçak, K. (2023). Features of the Hajar al-Aswad, Black Stone of Makkah, Saudi Arabia. Konya Mühendislik Bilimleri Dergisi, 11(3), 601–609. https://doi.org/10.36306/konjes.1244222",
+      "doi": "10.36306/konjes.1244222",
+      "url": "https://doi.org/10.36306/konjes.1244222",
+      "verified": true,
+      "verification": "dogrulandi",
+      "drive_file": "10.36306-konjes.1244222-2924841.pdf",
+      "relevance": "İstanbul parçalarını anan tek hakemli makale. Parça sayısı (6) ve Sultanahmet mihrabı bilgisi yeni. Tarihsel iddiaları kaynaksız; dikkatli kullan.",
+      "notes_path": "notes/kocak-2023-hajar-al-aswad.md"
+    },
+    {
+      "id": "yuksel-2023-kabenin-tarihi",
+      "title": "Kâbe'nin tarihi ve anlamı üzerine bazı tespitler",
+      "authors": [
+        "Yüksel, M."
+      ],
+      "year": 2023,
+      "type": "article",
+      "tags": [
+        "kâbe",
+        "osmanlı onarımları",
+        "kronoloji"
+      ],
+      "summary": "Kâbe'nin inşa ve onarım evrelerini sıralar. Osmanlı dönemi için: 16. yüzyıl sonlarında kuzeybatı duvarında çatlaklar oluşur, İstanbul'daki âlimler yıkıp yeniden yapmayı câiz görmez, I. Ahmed başmimar Mehmed Ağa'dan tedbir ister. IV. Murad döneminde sel sonrası Mısır'dan Mimar Rıdvan Ağa görevlendirilir. Mimar Sinan'dan söz edilmez.",
+      "apa": "Yüksel, M. (2023). Kâbe'nin tarihi ve anlamı üzerine bazı tespitler. Çukurova Üniversitesi İlahiyat Fakültesi Dergisi, 23(1), 206–221. https://doi.org/10.30627/cuilah.1251834",
+      "doi": "10.30627/cuilah.1251834",
+      "url": "https://doi.org/10.30627/cuilah.1251834",
+      "verified": true,
+      "verification": "dogrulandi",
+      "drive_file": "10.30627-cuilah.1251834-2955393.pdf",
+      "relevance": "'Sinan'ın Kâbe tamiri' rivayetini sınamak için kronoloji: Bu makaleye göre Osmanlı'nın Kâbe binasına müdahaleleri I. Ahmed ve IV. Murad dönemine ait, ikisi de Sinan'dan (ö. 1588) sonra.",
+      "notes_path": "notes/yuksel-2023-kabenin-tarihi.md"
+    },
+    {
+      "id": "metin-2025-hacerul-esved",
+      "title": "Hacerü'l-Esved",
+      "authors": [
+        "Metin, A."
+      ],
+      "year": 2025,
+      "type": "book",
+      "tags": [
+        "hacerülesved",
+        "siyer",
+        "islam tarihi"
+      ],
+      "summary": "Yüksek lisans tezinden üretilmiş kitap (editör: Şaban Öz). Taşın mahiyeti, ölçüleri, kararma rivayetleri, İslam öncesi ve sonrası tarihi, tefsir, hadis ve siyer kaynaklarındaki yeri. Taşın birkaç kez kırıldığını, üç büyük ve birkaç küçük parçadan oluştuğunu aktarır. İstanbul'daki parçalardan, Sinan'dan veya Kanuni'den söz etmez.",
+      "apa": "Metin, A. (2025). Hacerü'l-Esved (Ş. Öz, Ed.). KSÜ Siyer-i Nebi Araştırmaları Uygulama ve Araştırma Merkezi (SAMER) Yayınları.",
+      "doi": null,
+      "url": null,
+      "verified": true,
+      "verification": "dogrulandi",
+      "drive_file": "128 - Hacerül-Esved - Abdullah Metin_2502031053197552.pdf",
+      "relevance": "Giriş bölümü için taşın dinî-tarihî arka planı; kırılma tarihçesi.",
+      "notes_path": "notes/metin-2025-hacerul-esved.md"
+    },
+    {
+      "id": "kirman-ozbolat-2017-islam-kutsal",
+      "title": "İslam, kutsal ve seküler",
+      "authors": [
+        "Kirman, M. A.",
+        "Özbolat, A."
+      ],
+      "year": 2017,
+      "type": "article",
+      "tags": [
+        "kutsal",
+        "din sosyolojisi",
+        "hacerülesved"
+      ],
+      "summary": "İslam'ın kutsallık anlayışını Kur'an ve Sünnet üzerinden tartışır. Hacerülesved'i 'görece tartışmalı olsa da' kutsal kabul edilen eşyalar arasında sayar; minber ve mihrabın da sıradan eşyanın ötesinde olduğunu belirtir.",
+      "apa": "Kirman, M. A., & Özbolat, A. (2017). İslam, kutsal ve seküler. Çukurova Üniversitesi İlahiyat Fakültesi Dergisi, 17(2), 19–41.",
+      "doi": null,
+      "url": null,
+      "verified": true,
+      "verification": "dogrulandi",
+      "drive_file": "2017_2_KIRMANMA_OZBOLATA.pdf",
+      "relevance": "Kavramsal çerçeve: taş, mihrap ve minber birlikte 'kutsal eşya' kategorisinde. Parçaların mihrap ve minbere konmasını okumak için kullanılabilir. Kaynakçasındaki Seyhan (2016) kitabı ayrıca bakılmalı.",
+      "notes_path": "notes/kirman-ozbolat-2017-islam-kutsal.md"
+    },
+    {
+      "id": "yildirim-2024-kabe-hakemligi",
+      "title": "Araplarda hakemlik ve Hz. Peygamber'in Kâbe hakemliği",
+      "authors": [
+        "Yıldırım, N."
+      ],
+      "year": 2024,
+      "type": "article",
+      "tags": [
+        "hacerülesved",
+        "hakem olayı",
+        "siyer"
+      ],
+      "summary": "Kureyş'in Kâbe onarımı sırasında Hacerülesved'i yerine koyma ihtilafını ve Hz. Peygamber'in hakemliğini rivayetler üzerinden inceler.",
+      "apa": "Yıldırım, N. (2024). Araplarda hakemlik ve Hz. Peygamber'in Kâbe hakemliği. Anemon Muş Alparslan Üniversitesi Sosyal Bilimler Dergisi, 12(1), 127–142. https://doi.org/10.18506/anemon.1415687",
+      "doi": "10.18506/anemon.1415687",
+      "url": "https://doi.org/10.18506/anemon.1415687",
+      "verified": true,
+      "verification": "dogrulandi",
+      "drive_file": "10.18506-anemon.1415687-3643515.pdf",
+      "relevance": "Arka plan: taşın 'yerine konması' fikrinin kurucu anlatısı. Bildiride en fazla bir cümlelik atıf.",
+      "notes_path": "notes/yildirim-2024-kabe-hakemligi.md"
+    },
+    {
+      "id": "aktas-2020-arap-yarimadasi",
+      "title": "Arap Yarımadasında din odaklı mücadeleler ve Cahiliye Araplarına etkileri",
+      "authors": [
+        "Aktaş, Ö."
+      ],
+      "year": 2020,
+      "type": "article",
+      "tags": [
+        "cahiliye",
+        "islam öncesi arabistan"
+      ],
+      "summary": "İslam öncesi Arap Yarımadası'ndaki din merkezli mücadeleleri ele alır. Hacerülesved'e yalnızca birkaç yerde değinir.",
+      "apa": "Aktaş, Ö. (2020). Arap Yarımadasında din odaklı mücadeleler ve Cahiliye Araplarına etkileri. Pamukkale Üniversitesi İlahiyat Fakültesi Dergisi, 7(1), 227–254. https://doi.org/10.17859/pauifd.731861",
+      "doi": "10.17859/pauifd.731861",
+      "url": "https://doi.org/10.17859/pauifd.731861",
+      "verified": true,
+      "verification": "dogrulandi",
+      "drive_file": "Arap Yarımadasında Din Odaklı Mücadeleler ve Cahiliye Araplarına Etkileri[#731861]-1162296.pdf",
+      "relevance": "Konuya uzak. Bildiride kullanılması gerekmeyebilir.",
+      "notes_path": "notes/aktas-2020-arap-yarimadasi.md"
+    },
+    {
+      "id": "cetinaslan-ozcelik-2021-camiut-tevarih",
+      "title": "Câmiu't-Tevârîh yazmalarındaki Hz. Muhammed konulu minyatürlerin Bizans resim sanatındaki kökenleri",
+      "authors": [
+        "Çetinaslan, M.",
+        "Özçelik, A. C."
+      ],
+      "year": 2021,
+      "type": "article",
+      "tags": [
+        "minyatür",
+        "ikonografi",
+        "hacerülesved"
+      ],
+      "summary": "Câmiu't-Tevârîh'in Edinburgh ve Khalili nüshalarındaki üç minyatürü Bizans örnekleriyle karşılaştırır. 'Hacerülesved'in Kâbe'deki yerine yerleştirilmesi' sahnesi (Edinburgh Or. Ms. 20, f. 45r) benzerlik kurulamadığı için çalışma dışında bırakılmıştır.",
+      "apa": "Çetinaslan, M., & Özçelik, A. C. (2021). Câmiu't-Tevârîh yazmalarındaki Hz. Muhammed konulu minyatürlerin Bizans resim sanatındaki kökenleri. Selçuklu Medeniyeti Araştırmaları Dergisi, (6), 21–43. https://doi.org/10.47702/sema.2021.13",
+      "doi": "10.47702/sema.2021.13",
+      "url": "https://doi.org/10.47702/sema.2021.13",
+      "verified": true,
+      "verification": "dogrulandi",
+      "drive_file": "10.47702-sema.2021.13-2145939.pdf",
+      "relevance": "Görsel kaynak izi: taşın yerleştirilmesi sahnesinin minyatürü (Or. Ms. 20, f. 45r). Sunumda görsel olarak kullanılabilir; izin gerekir.",
+      "notes_path": "notes/cetinaslan-ozcelik-2021-camiut-tevarih.md"
     }
-  ]
+  ],
+  "drive_folder": "Google Drive: Akademik / Mimar Sinan'ın Camilerinde Mekan, Strüktür ve Örtü / İstanbul'da Hacerü'l-Esved'in İzini Sürmek"
 }

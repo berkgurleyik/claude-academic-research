@@ -1,102 +1,100 @@
 # Bildiri iskeleti — İstanbul'da Hacerü'l-Esved'in İzini Sürmek; Sinan'ın Kutsal Taşa Dokunuşu
 
 **Ders:** Mimar Sinan'ın Camilerinde Mekân, Strüktür ve Örtü
-**Durum:** Taslak iskelet (1. sürüm, 19 Ekim 2026) · **Atıf stili:** APA 7
+**Sürüm:** 2 (20 Ekim 2026). Senin Drive'daki taslağının bölüm yapısına uyarlandı. · **Atıf stili:** APA 7
 **Dayandığı literatür:** [`sinan-hacerul-esved-literatur.md`](sinan-hacerul-esved-literatur.md), [`data/sinan-hacerul-esved.json`](../data/sinan-hacerul-esved.json)
 
-> Bu iskelette 🟡 veya ❌ işaretli bilgiler henüz doğrulanmadı. Metne girmeden önce kaynağından kontrol et. Kongre şablonu (kelime sınırı, bölüm adları) belli olunca iskelet ona göre uyarlanır.
+> Bölüm başlıkları ve sırası senin taslağından alındı. Her bölümün altına hangi kaynağın kullanılacağını ve neyin henüz kanıtsız olduğunu ekledim. ✅ PDF'ten doğrulandı · 🟡 kısmen doğrulandı · ❌ kaynak yok · ⚠️ dikkat
 
-## Başlık seçenekleri
+## Ana soru ve tez önerisi
 
-1. İstanbul'da Hacerü'l-Esved'in İzini Sürmek: Sinan'ın Kutsal Taşa Dokunuşu (ders başlığı)
-2. Kapıdan Mihraba: Kadırga Sokullu Mehmed Paşa Camii'nde Hacerü'l-Esved Parçalarının Mekânsal Yerleşimi
-3. Rivayet ile Mimarlık Arasında: Sinan Yapılarında Hacerü'l-Esved Parçaları
+**Soru:** Hacerü'l-Esved'e ait olduğu rivayet edilen parçalar Sinan yapılarında nereye, ne zaman ve hangi mantıkla yerleştirildi?
 
-## Araştırma sorusu
+**Çalışma tezi (öneri):** Parçalar taşıyıcı elemanlara değil, kutsal eşya sayılan mihraba, minbere ve eşiklere (kapı, kilit taşı) yerleştirilmiş. Bu tercih, taşa doğrudan kutsiyet atfetmeden kutsal yönü işaretleyen bir mimari dil kuruyor. Kanuni Türbesi'ndeki parça ile Kadırga'daki parçalar muhtemelen aynı birkaç yıllık dönemde (1568–1572) yerleştirildi.
 
-**Ana soru (öneri):** Kadırga Sokullu Mehmed Paşa Camii'ndeki Hacerü'l-Esved parçalarının giriş kapısı, mihrap ve minberdeki yerleşimi, Sinan'ın mekân kurgusunda kutsallığı nasıl işaretler ve yönlendirir?
+## 1. Giriş
 
-**Alt sorular:**
-1. Parçalar camiye ne zaman yerleştirildi? Belgelenebilen en erken tarih ne? (Birincil kaynak sorusu)
-2. Parçaların geliş rivayetleri tarihsel olarak ne kadar tutarlı?
-3. Yerleşimin yapının ana ekseni, görüş hatları ve cemaatin hareketiyle ilişkisi ne?
-4. Süleymaniye'deki Kanuni Türbesi'ndeki parça ile karşılaştırıldığında ortak bir yerleştirme mantığı var mı?
+- **Kavramsal çerçeve:** Taşın Kâbe'deki yeri ve anlamı → Öğüt (1996) ✅, Metin (2025) ✅. "Cennetten gelen taş" anlatısının rivayet niteliği → Öğüt (1996) ✅ (kaynakların "birçoğu zayıf isnatlara dayanan" rivayetler olduğunu söylüyor).
+- **Tarihsel arka plan:** Taşın kırılma tarihçesi (683 yangını, 930 Karmatî olayı) → Öğüt (1996) ✅, Metin (2025) ✅. İstanbul'a geliş: yalnızca Kanuni Türbesi parçası için kaynak var → Öğüt (1996) ✅.
+- **Amaç:** "Estetik, statik ve sembolik hiyerarşi" ifaden iyi. Ama "Sinan'ın gözettiği" demek yerine "yerleşimden okunabilen" demeni öneririm, çünkü Sinan'ın niyetine dair bir belge yok.
+- **Literatürdeki boşluk (bir cümle):** Kadırga külliyesini ayrıntılı tarif eden Tanman (2009) bile parçalardan söz etmiyor ✅. Bunu "taranan literatürde parçaların mimari bağlamda incelenmediği görülmüştür" diye kur.
 
-## Özet taslağı (yaklaşık 200 kelime, doldurulacak)
+## 2. Kutsalın Transferi: Mekke'den Payitaht'a
 
-> Kâbe'nin doğu köşesindeki Hacerü'l-Esved'e ait olduğu kabul edilen parçalar, İstanbul'da başta Kadırga Sokullu Mehmed Paşa Camii olmak üzere birkaç yapıda korunmaktadır. Popüler kaynaklarda sıkça anlatılan bu parçalar, mimarlık tarihi literatüründe şimdiye kadar müstakil bir incelemeye konu olmamıştır. Bu çalışma, [979/1571-72] tarihli caminin giriş kapısı, mihrabı ve minberinde yer alan dört parçanın mekânsal yerleşimini Sinan'ın mekân kurgusu içinde ele almaktadır. Çalışmada yerinde belgeleme, birincil kaynak taraması ve parçaların geliş rivayetlerinin karşılaştırmalı analizi birlikte kullanılmıştır. [Bulgular: yerinde belgelemeden sonra yazılacak.] [Sonuç: yerleşimin kutsallığı nasıl işaretlediğine dair ana tez.] Çalışma, Sinan yapılarında kutsal emanetlerin mimari anlamına dair tartışmaya katkı sunmayı amaçlamaktadır.
+- **Osmanlı'nın Haremeyn siyaseti:** Osmanlı'nın Kâbe'ye hizmetleri → Yüksel (2023) ✅, Martens (2020) 🟡, Metin, İ. (2015) 🟡. Hilafet ve meşruiyet argümanı için henüz okunmuş bir kaynak yok ❌. Ek kaynak gerekiyor.
+- **Kaç parça, neden İstanbul?:** ⚠️ Kaynaklar çelişiyor. Haberlere göre 5, Koçak'a (2023) göre 6 parça var ✅. Bunu bir tabloyla ver. "Neden İstanbul" sorusuna dair hiçbir kaynak yok ❌.
+- **Sinan'ın rolü:** ❌ Sinan'ın parçaların taşınmasını yönettiğine ya da yer seçtiğine dair belge yok. Bu alt başlığı **rivayet ile kronolojinin karşılaştırılması**na çevir:
+  - Rivayet A: Sinan'ın yaptığı Kâbe tamiri sırasında kopan parçalar (gri literatür)
+  - Rivayet B: Kâbe onarımını finanse ettiği için Sokullu'ya verilen hediye (gri literatür)
+  - Rivayet C: Kanuni döneminde bir hadım ağasının getirmesi → Öğüt (1996) ✅ (Mahmud Esad'a dayanıyor)
+  - **Kronoloji:** Osmanlı'nın Kâbe binasına müdahaleleri I. Ahmed ve IV. Murad dönemine ait, ikisi de Sinan'dan (ö. 1588) sonra → Yüksel (2023) ✅. Rivayet A bu yüzden sorunlu.
 
-**Anahtar kelimeler (5):** Mimar Sinan; Hacerü'l-Esved; Kadırga Sokullu Mehmed Paşa Camii; kutsal emanet; mekân kurgusu
+## 3. İstanbul'daki Duraklar: Mimari Analiz ve Konumlandırma
 
-## Bölümler
+### A. Kadırga Sokullu Mehmed Paşa Camii
 
-### 1. Giriş (~%10)
+- **Yapının tanıtımı:** Kitabe 979/1572, banisi tartışması, altı payeli şema, 13 m çaplı kubbe → Tanman (2009) ✅. Dersin "mekân, strüktür, örtü" ekseni burada bağlanır. Kuban (1968) okunursa güçlenir.
+- **Dört konum:** Giriş kapısı üstü, mihrap üstü, minber kapısı üstü, minber külahı altı → yalnızca gri literatür ❌, Koçak (2023) sadece "dört parça" diyor ✅. **Yerinde belgeleme şart.**
+- ⚠️ "Giriş mahfili / taç kapı": Haberler "giriş kapısı üzerindeki mermer" diyor. Bu avlu taç kapısı mı harim kapısı mı? Tanman ikisini ayrı ayrı tarif ediyor. Yerinde bakıp doğru terimi kullan.
+- **Analiz (erişilemez yükseklik):** Haberlerde "dokunulmasın diye yükseğe konmuş" deniyor (müftülük açıklaması, gri literatür). Bunu Öğüt'ün "dokunmanın anlamı taşın kendisine değil" vurgusuyla bağla ✅.
 
-- Hacerü'l-Esved'in Kâbe'deki yeri ve anlamı → Öğüt (1996) 🟡
-- İstanbul'daki parçalar konusunun popüler ilgisi ve akademik ilginin eksikliği → gri literatür, açıkça "gri literatür" diye belirt
-- Araştırma sorusu ve bildirinin yapısı
+### B. Süleymaniye: Kanuni Sultan Süleyman Türbesi
 
-### 2. Literatür ve kuramsal çerçeve (~%20)
+- **Konum:** Giriş cephesindeki kemerin kilit taşı → Öğüt (1996), fotoğraf altı yazısı ✅. ⚠️ "Başucu" ifadesini kullanma, parça girişte.
+- **Tarih:** Türbe muhtemelen 1568 sonlarında tamamlandı → Önkal ✅ (künye eksik). Parça Kanuni döneminde gelmişse bile kapıya bu tarihten sonra konmuş olmalı (çıkarım).
+- **Plan ve örtü:** Revakla kuşatılmış sekizgen gövde, sütunlu iç galeri, çift cidarlı kubbe → Önkal ✅. Kilit taşının bu kompozisyondaki yeri (eksen, giriş) analiz edilebilir.
+- **Analiz:** "Sultanın ebedî istirahatgâhı ile Kâbe arasındaki bağ" yorumu kalabilir. Ama parçanın konumu (giriş kemerinin tepesi) eşiği vurguluyor.
 
-- **Sinan'da dekorum ve patronaj:** Necipoğlu (2005) 🟡. Kadırga bölümü s. 331–335 kontrol edilecek.
-- **Sinan camilerinde sembolizm ve kutsal emanetler:** Akçıl Harmankaya (2017, 2018) 🟡. Konuya en yakın çalışmalar. Ne dediklerini tam metinden oku.
-- **Osmanlı ve Mekke:** Martens (2020), Metin (2015) 🟡. Sinan'ın Mescid-i Haram revakları ve Osmanlı Kâbe onarımları.
-- **Boşluk:** Parçaları mimari bağlamda inceleyen çalışma bulunamadı. Bunu tek cümleyle ve dikkatli söyle ("taranan literatürde rastlanmamıştır").
+### C. Karşılaştırma notu (dipnot)
 
-### 3. Yöntem (~%10)
+- Sultanahmet Camii'nin mihrabındaki parça → Koçak (2023) ✅. Sinan yapısı değil.
+- Edirne Eski Cami'deki taş → Koçak (2023) ✅. Muhtemelen Hacerülesved değil, Rükn-i Yemânî'den.
 
-- **Yerinde belgeleme:** Her parçanın fotoğrafı, yerden yüksekliği, çerçeve malzemesi, plan ve kesitte konumu. Cami yönetiminden fotoğraf izni al.
-- **Birincil kaynak taraması:** Ayvansarayî, *Hadîkatü'l-Cevâmi'* (c. I, s. 193–194 ❌), Sokullu vakfiyesi, varsa seyahatnameler.
-- **Rivayet analizi:** Üç geliş rivayetini (Kâbe tamiri / Sokullu'ya hediye / Kanuni'nin getirmesi) kaynaklarıyla tablolaştır, kronolojiyle sına.
-- **Karşılaştırma:** Süleymaniye Kanuni Türbesi'ndeki parça (Sinan yapısı). Edirne Eski Cami'deki parça yalnızca dipnotta, çünkü Sinan yapısı değil.
+## 4. Sinan'ın "Dokunuşu": Teknik ve Estetik Uygulama
 
-### 4. Kadırga Sokullu Mehmed Paşa Camii (~%15)
+- **Muhafaza teknikleri (altın çerçeve, mermere gömme):** Yalnızca gri literatür ❌. Yerinde inceleme ve fotoğraf gerekiyor.
+- **Görsel hiyerarşi:** Çini ve hat programı → Tanman (2009) ✅, Yasan (2019) 🟡. Parçaların yazı programıyla ilişkisi (aynı yerde hangi ayetler var?) özgün bir analiz olabilir.
+- **Mimari saygı (taşıyıcıya değil, sembolik noktalara):** Senin en güçlü argümanın bu. Kavramsal dayanak: Kirman ve Özbolat (2017) mihrap ve minberi de "sıradan eşyanın ötesinde" sayıyor ✅.
 
-- Külliyenin konumu, banisi tartışması, kitabe tarihi 979/1572 → Tanman (2009) 🟡
-- Altıgen baldaken plan şeması ve örtü sistemi (dersin "mekân, strüktür, örtü" ekseni burada bağlanır) → DergiPark'taki yapısal analiz makaleleri (henüz kaydedilmedi, eklenecek)
-- Mihrap, minber ve giriş kapısının mimari tarifi → Tanman (2009) 🟡
-- Yazı programı → Yasan (2019) 🟡
+## 5. Sembolik Anlam: İstanbul'da "Manevi Bir Kâbe" İnşası
 
-### 5. Parçaların yerleşimi ve okunuşu (~%25, bildirinin özgün katkısı)
+- **Kıble algısı:** Mihrap üstündeki parça kıble yönünü işaretliyor. Plan üzerinde çizimle göster. Bu senin yorumun, olduğu gibi kullanabilirsin.
+- **Halk kültürü ve ziyaret:** Yalnızca gri literatür. Müftülüğün "ibadet anlamında kutsiyet atfedilmemeli" açıklaması burada kaynak olarak kullanılabilir, ama gri literatür olarak etiketle.
+- **Vakfiyelerdeki izler:** 🔎 Sokullu ve İsmihan Sultan vakfiyeleri (Tanman ikisinden de söz ediyor). Taştan söz ediyorlarsa bildirinin en güçlü belgesi olur. Söz etmiyorlarsa bu da bir bulgu.
+- ⚠️ "Manevi Kâbe" ifadesi yorum olarak kalabilir, ama Öğüt'ün kutsiyet vurgusuyla dengele.
 
-- **Konumlar:** giriş kapısı üstü, mihrap üstü, minber kapısı üstü, minber külahı altı. Şimdilik yalnızca gri literatür ❌, yerinde doğrulanacak.
-- **Eksen okuması:** Kapı → mihrap hattı kıble eksenini, minber ise hitabet mekânını işaretliyor mu? Plan üzerinde çizimle göster.
-- **Erişilemezlik:** Parçaların dokunulamayacak yükseklikte olması tazim ile kontrol arasındaki dengeyi gösteriyor olabilir. Hem Öğüt (1996) hem İstanbul Müftülüğü açıklamasındaki "ibadet anlamında kutsiyet atfedilmemeli" vurgusu (gri literatür) bu tartışmaya bağlanabilir.
-- **Kanuni Türbesi ile karşılaştırma:** giriş saçağı altında, yine eşik vurgusu.
-- **Tarihleme sorunu:** Parçalar inşa sırasında mı yerleştirildi, sonradan mı? Birincil kaynak bulunamazsa bunu açıkça belirt.
+## 6. Sonuç
 
-### 6. Tartışma: rivayet ve belge (~%10)
+- **Değerlendirme:** Rivayet ile belge arasındaki mesafe. Sinan'a atfın belgesizliği. Yerleşim mantığının mimari okuması.
+- **Miras ve koruma durumu:** Parçaların bugünkü durumu (yerinde gözlem). Koruma statüsünü Vakıflar Genel Müdürlüğü veya kurul kararından teyit et.
+- **Sınırlar:** Parçaların özgünlüğü bilimsel olarak test edilmedi → Koçak (2023) ✅. Birincil kaynaklar henüz incelenmedi.
 
-- Üç rivayetin karşılaştırma tablosu
-- Kronoloji uyarısı: Kâbe'nin temelden yeniden inşası 1630'da (IV. Murad dönemi), Sinan'dan sonra. Sinan dönemi için "Kâbe tamiri" ifadesi Mescid-i Haram çalışmalarıyla karışmış olabilir → Martens (2020), Metin (2015) ile sına.
-- Sinan'a atfın ne kadarının belgeye, ne kadarının sonradan oluşan anlatıya dayandığı
+## 7. Kaynakça
 
-### 7. Sonuç (~%10)
-
-- Ana tez (yerinde belgelemeden sonra yazılacak)
-- Katkı: parçaların ilk mimari belgelemesi ve okunuşu
-- Sınırlar: birincil kaynak eksikliği, parçaların özgünlüğünün bilimsel olarak test edilmemiş olması
-- Gelecek çalışma: diğer Sinan yapılarında benzer emanetlerin taranması
+Güncel liste: [`sinan-hacerul-esved-literatur.md`](sinan-hacerul-esved-literatur.md#kaynakça-apa-7).
 
 ## Görseller listesi
 
 | No | Görsel | Kaynak / izin |
 |---|---|---|
-| 1 | Cami vaziyet planı ve plan | Yayımlanmış plan (kaynağı belirtilecek) veya kendi çizimin |
-| 2 | Planda dört parçanın konumu ve eksenler | Kendi çizimin |
-| 3 | Kesitte parçaların yükseklikleri | Kendi çizimin |
-| 4–7 | Her parçanın yakın fotoğrafı | Kendi fotoğrafın (cami yönetiminden izin al) |
-| 8 | Kanuni Türbesi girişi | Kendi fotoğrafın |
+| 1 | Kadırga camisi planı, dört parçanın konumu | Kendi çizimin (yayımlanmış bir plana dayanıyorsa kaynağını belirt) |
+| 2 | Kesitte parçaların yükseklikleri | Kendi çizimin |
+| 3–6 | Kadırga'daki parçaların yakın fotoğrafları | Kendi fotoğrafın (cami yönetiminden izin al) |
+| 7 | Kanuni Türbesi giriş kemeri ve kilit taşı | Kendi fotoğrafın |
+| 8 | Kanuni Türbesi planı | Önkal, Şekil 1 (izin veya yeniden çizim) |
+| 9 | Taşın Kâbe'ye yerleştirilmesi minyatürü (Edinburgh Or. Ms. 20, f. 45r) | Edinburgh Üniversitesi Kütüphanesi'nden izin |
 
 ## Yapılacaklar
 
-1. [ ] Akçıl Harmankaya (2017 tez, 2018 makale) tam metinlerini oku
-2. [ ] Necipoğlu (2005), s. 331–335
-3. [ ] *Hadîkatü'l-Cevâmi'* c. I, s. 193–194
-4. [ ] Kadırga'da yerinde belgeleme: fotoğraf, ölçü, konum
-5. [ ] Kadırga camisinin altıgen baldaken şeması ve örtüsü üzerine DergiPark makalelerini kaynak listesine ekle
-6. [ ] Kongrenin kelime sınırını ve yazım kılavuzunu öğren
-7. [ ] TDV maddelerinin cilt ve sayfa bilgisi, Martens (2020) DOI'si
+1. [ ] Mahmud Esad, *İslâm Tarihi*, s. 326
+2. [ ] Sokullu ve İsmihan Sultan vakfiyeleri
+3. [ ] Kuban (1968), *Ars Orientalis* 7
+4. [ ] *Hadîkatü'l-cevâmi'*, c. I, s. 193–195
+5. [ ] Akçıl Harmankaya (2017, 2018) PDF'lerini Drive'a ekle
+6. [ ] Kadırga ve Kanuni Türbesi'nde yerinde belgeleme
+7. [ ] Önkal makalesinin dergi ve yıl bilgisi
+8. [ ] Haremeyn siyaseti ve meşruiyet için bir akademik kaynak
+9. [ ] Kongrenin kelime sınırı ve yazım kılavuzu
 
 ## Benim notlarım
 

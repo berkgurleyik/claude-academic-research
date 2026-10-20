@@ -1,18 +1,18 @@
 {
   "project": "Claude Academic Research",
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "files": [
     {
       "path": "data/dersler.json",
       "title": "Dersler",
       "description": "Dersler, çıktılar ve araştırma konuları.",
-      "updated": "2026-10-19"
+      "updated": "2026-10-20"
     },
     {
       "path": "data/sinan-hacerul-esved.json",
       "title": "Sinan ve Hacerü'l-Esved — kaynaklar",
       "description": "Mimar Sinan dersi araştırma konusu için kaynak listesi ve doğrulama durumları.",
-      "updated": "2026-10-19"
+      "updated": "2026-10-20"
     }
   ]
 }
