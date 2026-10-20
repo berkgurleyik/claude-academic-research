@@ -1,6 +1,6 @@
 # Hadîkatü'l-cevâmi'
 
-**Künye (APA 7):** Ayvansarayî, H. (t.y.). Hadîkatü'l-cevâmi' (Baskı ve sayfa bilgisi doğrulanmadı).
+**Künye (APA 7):** Ayvansarayî, H. (t.y.). Hadîkatü'l-cevâmi' (Cilt 1, ss. 193–195; baskı bilgisi doğrulanmadı).
 
 **Bağlantı:** https://mcid.mcah.columbia.edu/node/1414
 
@@ -8,7 +8,7 @@
 
 ## Özet
 
-18. yüzyıl İstanbul camileri envanteri. Kadırga Sokullu camisinin c. I, s. 193–194'te geçtiği bir ikincil kaynakta belirtiliyor. Hacerülesved parçalarından söz edip etmediği bilinmiyor; parçaların belgelenen en erken tarihi için kilit kaynak.
+18. yüzyıl İstanbul camileri envanteri. Tanman (2009) kaynakçasında Kadırga camisi için c. I, s. 193–195 gösteriliyor. Hacerülesved parçalarından söz edip etmediği bilinmiyor; parçaların belgelenen en erken tarihi için kilit kaynak.
 
 ## Konuya katkısı
 
